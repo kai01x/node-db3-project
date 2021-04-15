@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Node DB3 Project Starter Code - - - - -
+=======
+# Node DB3 Project Starter Code  ---- - - 
+>>>>>>> 6010d725b565d6ca55662a38dc8c0b52832b2640
 
 ## Instructions
 
